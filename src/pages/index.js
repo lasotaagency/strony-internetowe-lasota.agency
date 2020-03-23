@@ -31,10 +31,8 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Sanctus Security Management/h3>
-                                <p>Agencja Ochrony i największe Centrum Strzelecko-Taktyczne w Polsce.</p>
                             </header>
-                            <Link to="/landing" className="https://sanctus-security.com"></Link>
+                            
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">

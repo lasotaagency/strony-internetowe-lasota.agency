@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Forty V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
+    title: "Strony Internetowe Lasota.Agency",
+    author: "Maciej Lasota",
+    description: "Agencja Reklamowa, Systemy, Strategie i Rozwój Biznesu i Siebie."
   },
   plugins: [
     'gatsby-plugin-react-helmet',

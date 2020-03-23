@@ -17,10 +17,10 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Strony Internetowe Lasota.Agency Gubin - Agencja Reklamowa"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'Agencja Reklamy Lasota Agency - Rozwój Firm i Osobowości.' },
+                        { name: 'keywords', content: 'strony, internetowe, lasota, agency, gubin, agencja reklamowa' },
                     ]}
                 >
                 </Helmet>
@@ -31,10 +31,10 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Sanctus Security Management/h3>
+                                <p>Agencja Ochrony i największe Centrum Strzelecko-Taktyczne w Polsce.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/landing" className="https://sanctus-security.com"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
